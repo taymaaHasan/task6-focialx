@@ -1,0 +1,233 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+.partaf{
+    font-family: "Prata", serif;
+}
+.bg1{
+    background-color: #f3f2ec;
+}
+.bg2{
+    background-color: #e2e2e2;
+}
+
+
+                        /* Nav */
+
+.homeactive{
+    color:rgb(245, 186, 77) !important;
+}
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+
+                        /* Hero */
+
+.carousel-control-prev-icon{
+    background-image: url(./assest/icon/arrow-left-line-svgrepo-com.svg);
+}
+.carousel-control-next-icon{
+    background-image: url(./assest/icon/arrow-right-line-svgrepo-com.svg);
+}
+.carotitle{
+    font-size: 75px;
+    font-weight: 400;
+}
+.btn{
+    background-color: transparent;
+    border: #c5a992 1px solid;
+    color: #c5a992;
+}
+
+/* mediaqury */
+@media (max-width: 991px) {
+    .aa{
+        flex-wrap: wrap-reverse !important;
+        margin: 20px;
+    }
+    .carotitle{
+        width: 100%!important;
+        font-size: 40px;
+        font-weight: 400;
+        padding: 25px;
+    }
+    .bb{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+}
+
+
+/*subscribe*/
+
+
+
+.subsctitle{
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.tt{
+    background-color: transparent !important;
+}
+
+.line{
+    width: 50px;
+    height: 3px;
+      background-color:  rgb(245, 186, 77);
+
+}
+
+/*infor*/
+.line1{
+    width: 300px;
+    height: 2px;
+    background-color: rgb(86, 81, 81);
+
+}
+
+/* .bookimg{
+    width: 400px;
+    height: 500px;
+    margin: 20px;
+}
+
+.gry{
+    color: gray;
+} */
+
+
+
+
+
+/*one book*/
+.line3
+{
+width: 100px;
+height: 2px;
+background-color: gray;
+}
+
+
+.gry{
+    font-size: 15px;
+    color: gray;
+}
+
+.slug{
+    font-size: 28px;
+}
+
+.imgfourbook{
+    width: 300px;
+    height: 400px;
+
+}
+
+ /*four book*/
+ .bg3{
+    background-color: #eae3e3;
+ }
+ .gryline {
+    width: 200px;
+    height: 2px;
+    background-color: rgb(83, 76, 76);
+ } 
+
+
+
+
+.fourbookline{
+    width: 700px;
+    height: 2px;
+    background-color: #aba7a7;
+}
+
+
+
+/*eigth book*/
+.gryline1 {
+    width: 200px;
+    height: 2px;
+    background-color: rgb(204, 201, 201);
+ }
+ 
+.link2{
+    text-decoration: underline;
+    color:yellowgreen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
